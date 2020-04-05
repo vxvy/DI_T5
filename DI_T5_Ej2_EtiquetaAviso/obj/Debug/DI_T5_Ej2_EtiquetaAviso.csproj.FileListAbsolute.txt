@@ -1,0 +1,7 @@
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej2_EtiquetaAviso\bin\Debug\DI_T5_Ej2_EtiquetaAviso.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej2_EtiquetaAviso\bin\Debug\DI_T5_Ej2_EtiquetaAviso.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej2_EtiquetaAviso\obj\Debug\DI_T5_Ej2_EtiquetaAviso.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej2_EtiquetaAviso\obj\Debug\DI_T5_Ej2_EtiquetaAviso.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej2_EtiquetaAviso\obj\Debug\DI_T5_Ej2_EtiquetaAviso.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej2_EtiquetaAviso\obj\Debug\DI_T5_Ej2_EtiquetaAviso.EtiquetaAviso.resources
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej2_EtiquetaAviso\obj\Debug\DI_T5_Ej2_EtiquetaAviso.csproj.GenerateResource.cache

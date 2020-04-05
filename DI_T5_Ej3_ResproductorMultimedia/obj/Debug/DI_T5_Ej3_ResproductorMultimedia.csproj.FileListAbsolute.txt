@@ -1,0 +1,5 @@
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej3_ResproductorMultimedia\bin\Debug\DI_T5_Ej3_ResproductorMultimedia.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej3_ResproductorMultimedia\bin\Debug\DI_T5_Ej3_ResproductorMultimedia.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej3_ResproductorMultimedia\obj\Debug\DI_T5_Ej3_ResproductorMultimedia.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej3_ResproductorMultimedia\obj\Debug\DI_T5_Ej3_ResproductorMultimedia.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej3_ResproductorMultimedia\obj\Debug\DI_T5_Ej3_ResproductorMultimedia.pdb

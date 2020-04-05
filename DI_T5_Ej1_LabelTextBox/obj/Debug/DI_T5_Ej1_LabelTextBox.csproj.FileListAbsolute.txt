@@ -1,0 +1,7 @@
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_LabelTextBox\bin\Debug\DI_T5_Ej1_LabelTextBox.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_LabelTextBox\bin\Debug\DI_T5_Ej1_LabelTextBox.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_LabelTextBox\obj\Debug\DI_T5_Ej1_LabelTextBox.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_LabelTextBox\obj\Debug\DI_T5_Ej1_LabelTextBox.LabelTextBox.resources
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_LabelTextBox\obj\Debug\DI_T5_Ej1_LabelTextBox.csproj.GenerateResource.cache
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_LabelTextBox\obj\Debug\DI_T5_Ej1_LabelTextBox.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_LabelTextBox\obj\Debug\DI_T5_Ej1_LabelTextBox.pdb

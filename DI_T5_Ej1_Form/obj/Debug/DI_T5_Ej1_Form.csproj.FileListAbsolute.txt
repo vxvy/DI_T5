@@ -1,0 +1,14 @@
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\bin\Debug\DI_T5_Ej1_Form.exe.config
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\bin\Debug\DI_T5_Ej1_Form.exe
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\bin\Debug\DI_T5_Ej1_Form.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\bin\Debug\DI_T5_Ej1_LabelTextBox.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\bin\Debug\DI_T5_Ej1_LabelTextBox.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\obj\Debug\DI_T5_Ej1_Form.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\obj\Debug\DI_T5_Ej1_Form.Properties.Resources.resources
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\obj\Debug\DI_T5_Ej1_Form.csproj.GenerateResource.cache
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\obj\Debug\DI_T5_Ej1_Form.csproj.CopyComplete
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\obj\Debug\DI_T5_Ej1_Form.exe
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\obj\Debug\DI_T5_Ej1_Form.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\bin\Debug\DI_T5_Ej2_EtiquetaAviso.dll
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\bin\Debug\DI_T5_Ej2_EtiquetaAviso.pdb
+C:\Users\vane\source\repos\DI_T5\DI_T5_Ej1_Form\obj\Debug\DI_T5_Ej1_Form.DI_T5_Ej1_Form.resources
